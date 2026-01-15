@@ -83,3 +83,15 @@ y_pred = model.predict(X_test).argmax(axis=1)
 print(classification_report(y_test, y_pred))
 print(confusion_matrix(y_test, y_pred))
 ```
+
+**Final Results**
+
+Test Accuracy: **99.4%**
+
+Test Loss: **0.0248**
+
+Strong generalization performance
+
+No signs of overfitting
+
+Stable training behavior
