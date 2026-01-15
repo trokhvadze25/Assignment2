@@ -1,9 +1,7 @@
 # Assignment2
-```
 
-```
 
-Initial Model Performance and Issues
+
 
 At the beginning of the project, the neural network model achieved an accuracy of approximately 69%. Although this result might appear acceptable at first glance, further analysis showed that the model was not learning meaningful patterns from the data. The training and validation accuracy quickly plateaued, which indicated that the model was likely predicting the majority class most of the time.
 
